@@ -1,7 +1,7 @@
 mysql-connector-python==8.2.0
 numerize==0.12
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
-plotly @ file:///C:/ci_311/plotly_1676443558683/work
+pandas
+plotly 
 streamlit==1.27.2
 streamlit-option-menu==0.3.6
 query
