@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly.express
+streamlit_option_menu
+numerize.numerize
+query 
+mysql.connector
